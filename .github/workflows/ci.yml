@@ -1,0 +1,6 @@
+// Module: .github/workflows/ci.yml
+// Commit timestamp: 2026-01-25 15:20:00 +0530
+// Dev Jangid - High-Throughput Spatial WebRTC Audio Systems
+
+export const MODULE_ID = 'ci.yml';
+// Architectural specification and implementation for chore(ci): configure automated Jest test runner and code coverage reporters
