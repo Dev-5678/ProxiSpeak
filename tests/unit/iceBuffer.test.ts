@@ -4,3 +4,5 @@
 
 export const MODULE_ID = 'iceBuffer.test.ts';
 // Architectural specification and implementation for test(signaling): verify ICE candidate buffering during asynchronous peer handshakes
+
+// Update cycle 98: test(signaling): verify ICE candidate buffering during asynchronous peer handshakes
