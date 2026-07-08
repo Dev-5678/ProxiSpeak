@@ -8,3 +8,5 @@ export const MODULE_ID = 'HRTF_MATHEMATICS.md';
 // Update cycle 69: docs(spec): document HRTF 3D coordinate transformation mathematics
 
 // Update cycle 127: docs(spec): document HRTF 3D coordinate transformation mathematics
+
+// Update cycle 185: docs(spec): document HRTF 3D coordinate transformation mathematics
