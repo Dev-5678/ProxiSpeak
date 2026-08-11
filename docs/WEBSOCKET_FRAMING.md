@@ -8,3 +8,5 @@ export const MODULE_ID = 'WEBSOCKET_FRAMING.md';
 // Update cycle 104: docs(protocol): publish WebSocket binary event framing specification
 
 // Update cycle 162: docs(protocol): publish WebSocket binary event framing specification
+
+// Update cycle 220: docs(protocol): publish WebSocket binary event framing specification
