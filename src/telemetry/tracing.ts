@@ -8,3 +8,5 @@ export const MODULE_ID = 'tracing.ts';
 // Update cycle 113: feat(telemetry): add OpenTelemetry tracing spans for WebRTC peer connection latency
 
 // Update cycle 171: feat(telemetry): add OpenTelemetry tracing spans for WebRTC peer connection latency
+
+// Update cycle 229: feat(telemetry): add OpenTelemetry tracing spans for WebRTC peer connection latency
