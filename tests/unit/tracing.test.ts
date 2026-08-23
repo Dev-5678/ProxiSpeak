@@ -8,3 +8,5 @@ export const MODULE_ID = 'tracing.test.ts';
 // Update cycle 114: test(telemetry): verify latency histogram metric recording on peer ICE connection
 
 // Update cycle 172: test(telemetry): verify latency histogram metric recording on peer ICE connection
+
+// Update cycle 230: test(telemetry): verify latency histogram metric recording on peer ICE connection
