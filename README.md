@@ -62,23 +62,39 @@ Where:
 - Node.js `v20.x` or `v24.x`
 - npm `v10.x` or pnpm `v9.x`
 
-### Installation
+### 1. Launch Signaling & Spatial Matrix Server
 ```bash
 # Clone the repository
 git clone https://github.com/Dev-5678/ProxiSpeak.git
-cd ProxiSpeak/frontend
+cd ProxiSpeak/server
 
-# Install dependencies
+# Install server dependencies & run
 npm install
-
-# Launch development environment
 npm run dev
+# Server listening on http://localhost:5000
 ```
 
-### Production Build
+### 2. Launch React 19 Frontend Viewport
 ```bash
-npm run build
-npm run preview
+# In a separate terminal
+cd ProxiSpeak/frontend
+
+# Install dependencies & run Vite dev server
+npm install
+npm run dev
+# Vite client ready at http://localhost:5173
+```
+
+### 3. Run Proximity Engine Tests & Benchmarks
+```bash
+# Run sub-20ms latency and Euclidean distance validation
+npm test
+```
+
+### 4. Containerized Deployment (Docker Compose)
+```bash
+# Spin up Signaling Server, MongoDB, and Redis
+docker compose up -d
 ```
 
 ---
