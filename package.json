@@ -11,7 +11,7 @@
     "dev:frontend": "npm run dev --prefix frontend",
     "dev:server": "node server/index.js",
     "build:frontend": "npm run build --prefix frontend",
-    "test": "node tests/proximity.test.js && node tests/signaling-integration.test.js"
+    "test": "node tests/proximity.test.js && node tests/signaling-integration.test.js && node tests/doppler-acoustics.test.js"
   },
   "keywords": [
     "webrtc",
